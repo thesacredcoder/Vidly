@@ -23,4 +23,5 @@ function validateGenre(course) {
 exports = {
   Genre: Genre,
   validate: validateGenre,
+  genreSchema: genreSchema,
 };
